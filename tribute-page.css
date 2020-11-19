@@ -1,0 +1,9 @@
+#main {
+  font-family: sans-serif;
+}
+  
+#title-block {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
